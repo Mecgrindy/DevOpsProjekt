@@ -1,12 +1,12 @@
-package com.devopsProjekt.devopsProjekt;
+package com.grindy.devArtifact;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DevopsProjektApplication {
+public class DevArtifactApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DevopsProjektApplication.class, args);
+		SpringApplication.run(DevArtifactApplication.class, args);
 	}
 }

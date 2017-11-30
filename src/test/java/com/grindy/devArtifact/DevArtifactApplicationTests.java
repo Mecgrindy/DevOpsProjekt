@@ -1,4 +1,4 @@
-package com.devopsProjekt.devopsProjekt;
+package com.grindy.devArtifact;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DevopsProjektApplicationTests {
+public class DevArtifactApplicationTests {
 
 	@Test
 	public void contextLoads() {
